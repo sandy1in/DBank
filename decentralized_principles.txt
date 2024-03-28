@@ -1,0 +1,14 @@
+Decentralization
+Openness and Accessibility:
+Transparency
+Permissionless Innovation:
+	DeFi encourages permissionless innovation, allowing developers to build and deploy financial applications without needing approval from centralized intermediaries.
+Security
+	 Smart contracts and protocols should undergo rigorous security audits to identify and mitigate vulnerabilities before deployment.
+Interoperability
+	between different DeFi
+Financial Inclusion:
+	DeFi has the potential to provide financial services to underserved and unbanked populations worldwide.
+Programmability
+	Smart contracts in DeFi are programmable, allowing developers to create complex financial instruments and automate processes without intermediaries.
+Community Governance:
